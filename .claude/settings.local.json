@@ -3,7 +3,9 @@
     "allow": [
       "Bash(git init:*)",
       "Bash(git branch:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInicial: Sistema de notas con login de estudiantes\n\n- Pagina de login con autenticacion por DNI\n- Dashboard con informacion del estudiante y tabla de notas\n- Estilos CSS modernos con diseño responsive\n- Datos de estudiantes en JSON\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(gh repo create:*)"
     ],
     "deny": [],
     "ask": []

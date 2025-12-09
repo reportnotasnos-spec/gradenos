@@ -39,7 +39,9 @@ function showDashboard(studentRecords) {
   document.getElementById('studentYear').textContent = student.year;
 
   const tbody = document.getElementById('gradesBody');
+  const cardsContainer = document.getElementById('gradesCards');
   tbody.innerHTML = '';
+  cardsContainer.innerHTML = '';
 
   let totalAvg = 0;
 
@@ -48,6 +50,7 @@ function showDashboard(studentRecords) {
     totalAvg += parseFloat(avg);
     const avgClass = parseFloat(avg) >= 10.5 ? 'grade-approved' : 'grade-failed';
 
+    // Table row for desktop
     const row = document.createElement('tr');
     row.innerHTML = `
       <td>${record.subject}</td>
@@ -57,11 +60,40 @@ function showDashboard(studentRecords) {
       <td class="grade-cell ${avgClass}">${avg}</td>
     `;
     tbody.appendChild(row);
+
+    // Card for mobile
+    const card = document.createElement('div');
+    card.className = 'grade-card';
+    card.innerHTML = `
+      <div class="grade-card-subject">${record.subject}</div>
+      <div class="grade-card-grades">
+        <div class="grade-card-item">
+          <span>Nota 1</span>
+          <strong class="${record.grade1 >= 11 ? 'grade-approved' : 'grade-failed'}">${record.grade1}</strong>
+        </div>
+        <div class="grade-card-item">
+          <span>Nota 2</span>
+          <strong class="${record.grade2 >= 11 ? 'grade-approved' : 'grade-failed'}">${record.grade2}</strong>
+        </div>
+        <div class="grade-card-item">
+          <span>Nota 3</span>
+          <strong class="${record.grade3 >= 11 ? 'grade-approved' : 'grade-failed'}">${record.grade3}</strong>
+        </div>
+        <div class="grade-card-item">
+          <span>Promedio</span>
+          <strong class="${avgClass}">${avg}</strong>
+        </div>
+      </div>
+    `;
+    cardsContainer.appendChild(card);
   });
 
+  // General average
+  const generalAvg = (totalAvg / studentRecords.length).toFixed(1);
+  const avgClass = parseFloat(generalAvg) >= 10.5 ? 'grade-approved' : 'grade-failed';
+
   if (studentRecords.length > 1) {
-    const generalAvg = (totalAvg / studentRecords.length).toFixed(1);
-    const avgClass = parseFloat(generalAvg) >= 10.5 ? 'grade-approved' : 'grade-failed';
+    // Table row for desktop
     const avgRow = document.createElement('tr');
     avgRow.className = 'average-row';
     avgRow.innerHTML = `
@@ -70,6 +102,15 @@ function showDashboard(studentRecords) {
     `;
     tbody.appendChild(avgRow);
   }
+
+  // Card for mobile (always show general average)
+  const avgCard = document.createElement('div');
+  avgCard.className = 'grade-card-average';
+  avgCard.innerHTML = `
+    <span>Promedio General</span>
+    <strong class="${avgClass}">${generalAvg}</strong>
+  `;
+  cardsContainer.appendChild(avgCard);
 }
 
 function showLogin() {
@@ -96,20 +137,25 @@ document.addEventListener('DOMContentLoaded', async () => {
           <p><strong>Email:</strong> <span id="studentEmail"></span></p>
           <p><strong>Programa:</strong> <span id="studentProgram"></span></p>
           <p><strong>Ciclo:</strong> <span id="studentCycle"></span></p>
-          <p><strong>Año:</strong> <span id="studentYear"></span></p>
+          <p><strong>Aï¿½o:</strong> <span id="studentYear"></span></p>
         </div>
-        <table class="grades-table">
-          <thead>
-            <tr>
-              <th>Asignatura</th>
-              <th>Nota 1</th>
-              <th>Nota 2</th>
-              <th>Nota 3</th>
-              <th>Promedio</th>
-            </tr>
-          </thead>
-          <tbody id="gradesBody"></tbody>
-        </table>
+        <!-- Table for tablets and desktop -->
+        <div class="table-wrapper">
+          <table class="grades-table">
+            <thead>
+              <tr>
+                <th>Asignatura</th>
+                <th>Nota 1</th>
+                <th>Nota 2</th>
+                <th>Nota 3</th>
+                <th>Promedio</th>
+              </tr>
+            </thead>
+            <tbody id="gradesBody"></tbody>
+          </table>
+        </div>
+        <!-- Cards for mobile -->
+        <div class="grades-cards" id="gradesCards"></div>
       </div>
     </div>
   `;
