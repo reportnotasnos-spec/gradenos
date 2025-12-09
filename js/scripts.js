@@ -48,15 +48,18 @@ function showDashboard(studentRecords) {
   studentRecords.forEach(record => {
     const avg = Math.round((record.grade1 + record.grade2 + record.grade3) / 3);
     totalAvg += avg;
-    const avgClass = avg >= 11 ? 'grade-approved' : 'grade-failed';
+    const avgClass = avg >= 13 ? 'grade-approved' : avg >= 10 ? 'grade-recovery' : 'grade-failed';
+
+    // Helper function for grade class
+    const getGradeClass = (grade) => grade >= 13 ? 'grade-approved' : grade >= 10 ? 'grade-recovery' : 'grade-failed';
 
     // Table row for desktop
     const row = document.createElement('tr');
     row.innerHTML = `
       <td>${record.subject}</td>
-      <td class="grade-cell ${record.grade1 >= 11 ? 'grade-approved' : 'grade-failed'}">${record.grade1}</td>
-      <td class="grade-cell ${record.grade2 >= 11 ? 'grade-approved' : 'grade-failed'}">${record.grade2}</td>
-      <td class="grade-cell ${record.grade3 >= 11 ? 'grade-approved' : 'grade-failed'}">${record.grade3}</td>
+      <td class="grade-cell ${getGradeClass(record.grade1)}">${record.grade1}</td>
+      <td class="grade-cell ${getGradeClass(record.grade2)}">${record.grade2}</td>
+      <td class="grade-cell ${getGradeClass(record.grade3)}">${record.grade3}</td>
       <td class="grade-cell ${avgClass}">${avg}</td>
     `;
     tbody.appendChild(row);
@@ -69,15 +72,15 @@ function showDashboard(studentRecords) {
       <div class="grade-card-grades">
         <div class="grade-card-item">
           <span>Nota 1</span>
-          <strong class="${record.grade1 >= 11 ? 'grade-approved' : 'grade-failed'}">${record.grade1}</strong>
+          <strong class="${getGradeClass(record.grade1)}">${record.grade1}</strong>
         </div>
         <div class="grade-card-item">
           <span>Nota 2</span>
-          <strong class="${record.grade2 >= 11 ? 'grade-approved' : 'grade-failed'}">${record.grade2}</strong>
+          <strong class="${getGradeClass(record.grade2)}">${record.grade2}</strong>
         </div>
         <div class="grade-card-item">
           <span>Nota 3</span>
-          <strong class="${record.grade3 >= 11 ? 'grade-approved' : 'grade-failed'}">${record.grade3}</strong>
+          <strong class="${getGradeClass(record.grade3)}">${record.grade3}</strong>
         </div>
         <div class="grade-card-item">
           <span>Promedio</span>
@@ -90,7 +93,7 @@ function showDashboard(studentRecords) {
 
   // General average
   const generalAvg = Math.round(totalAvg / studentRecords.length);
-  const avgClass = generalAvg >= 11 ? 'grade-approved' : 'grade-failed';
+  const avgClass = generalAvg >= 13 ? 'grade-approved' : generalAvg >= 10 ? 'grade-recovery' : 'grade-failed';
 
   if (studentRecords.length > 1) {
     // Table row for desktop

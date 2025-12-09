@@ -213,6 +213,10 @@ body {
   color: #27ae60;
 }
 
+.grade-recovery {
+  color: #f39c12;
+}
+
 .grade-failed {
   color: #e74c3c;
 }
