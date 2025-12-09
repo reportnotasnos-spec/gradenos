@@ -1,0 +1,2352 @@
+[{
+  "_id": {
+    "$oid": "6936f2565b955170547babec"
+  },
+  "id": "01",
+  "dni": "01117752",
+  "email": "01117752@nos.edu.pe",
+  "student": "Castro Moreno Gaston Aristokle",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 7,
+  "grade3": 2
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babed"
+  },
+  "id": "02",
+  "dni": "60821699",
+  "email": "60821699@nos.edu.pe",
+  "student": "Del Aguila Diaz Sergio Amador",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 16,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babee"
+  },
+  "id": "03",
+  "dni": "75051215",
+  "email": "75051215@nos.edu.pe",
+  "student": "Del Castillo Lozano Jose Ausberto",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 2,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babef"
+  },
+  "id": "04",
+  "dni": "72882379",
+  "email": "72882379@nos.edu.pe",
+  "student": "Garcia Saavedra Raymundo",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 1,
+  "grade2": 12,
+  "grade3": 15
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf0"
+  },
+  "id": "05",
+  "dni": "60569432",
+  "email": "60569432@nos.edu.pe",
+  "student": "Gonzales Huanio Jhonatan Lino",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 11,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf1"
+  },
+  "id": "06",
+  "dni": "60734704",
+  "email": "60734704@nos.edu.pe",
+  "student": "Gonzales Ruiz Jeis Patrick",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 3,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf2"
+  },
+  "id": "07",
+  "dni": "62193684",
+  "email": "62193684@nos.edu.pe",
+  "student": "Guerra Gonzales Deyvis",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 16,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf3"
+  },
+  "id": "08",
+  "dni": "60250000",
+  "email": "60250000@nos.edu.pe",
+  "student": "Guerra Torres Alejandro",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 10,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf4"
+  },
+  "id": "09",
+  "dni": "60535865",
+  "email": "60535865@nos.edu.pe",
+  "student": "Ishuiza Pizango Michel",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 17,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf5"
+  },
+  "id": "10",
+  "dni": "76136758",
+  "email": "76136758@nos.edu.pe",
+  "student": "Jimenez Jimenez Javier Armando",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 12,
+  "grade3": 7
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf6"
+  },
+  "id": "11",
+  "dni": "60597200",
+  "email": "60597200@nos.edu.pe",
+  "student": "Lopez Torres Riquelme",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf7"
+  },
+  "id": "12",
+  "dni": "75172749",
+  "email": "75172749@nos.edu.pe",
+  "student": "Lucero Ushiñahua Nestor",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 10,
+  "grade3": 3
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf8"
+  },
+  "id": "13",
+  "dni": "61071360",
+  "email": "61071360@nos.edu.pe",
+  "student": "Luna Silva Juan Diego",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 3,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babf9"
+  },
+  "id": "14",
+  "dni": "74435293",
+  "email": "74435293@nos.edu.pe",
+  "student": "Murrieta Alegria Omar",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babfa"
+  },
+  "id": "15",
+  "dni": "73120344",
+  "email": "73120344@nos.edu.pe",
+  "student": "Paredes Pisco Gino Paoly",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 7,
+  "grade2": 6,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babfb"
+  },
+  "id": "16",
+  "dni": "60474198",
+  "email": "60474198@nos.edu.pe",
+  "student": "Pasapera Soto Jonathan",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 9,
+  "grade2": 1,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babfc"
+  },
+  "id": "17",
+  "dni": "71988696",
+  "email": "71988696@nos.edu.pe",
+  "student": "Pashanase Ishuiza Jilmer Willy",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 8,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babfd"
+  },
+  "id": "18",
+  "dni": "60131657",
+  "email": "60131657@nos.edu.pe",
+  "student": "Putpaña Mozombite Andy Brathy",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 2,
+  "grade2": 13,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babfe"
+  },
+  "id": "19",
+  "dni": "61902376",
+  "email": "61902376@nos.edu.pe",
+  "student": "Ramirez Chanchari Wilber",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 2,
+  "grade3": 17
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547babff"
+  },
+  "id": "20",
+  "dni": "60457136",
+  "email": "60457136@nos.edu.pe",
+  "student": "Ruiz Flores Jean Carlos",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 19,
+  "grade3": 16
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac00"
+  },
+  "id": "21",
+  "dni": "73573926",
+  "email": "73573926@nos.edu.pe",
+  "student": "Salas Sangama Porfirio",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 18,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac01"
+  },
+  "id": "22",
+  "dni": "61126172",
+  "email": "61126172@nos.edu.pe",
+  "student": "Sanchez Chujandama Alejandro",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 11,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac02"
+  },
+  "id": "23",
+  "dni": "60033789",
+  "email": "60033789@nos.edu.pe",
+  "student": "Sangama Guerra Jerson Abel",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 3,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac03"
+  },
+  "id": "24",
+  "dni": "70961688",
+  "email": "70961688@nos.edu.pe",
+  "student": "Solano Chujutalli Piero Alessander",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 7,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac04"
+  },
+  "id": "25",
+  "dni": "60412445",
+  "email": "60412445@nos.edu.pe",
+  "student": "Tangoa Ushiñahua Emanuel",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 14,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac05"
+  },
+  "id": "26",
+  "dni": "60294509",
+  "email": "60294509@nos.edu.pe",
+  "student": "Tapullima Huaman Saul Edmilson",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 20,
+  "grade2": 18,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac06"
+  },
+  "id": "27",
+  "dni": "75725154",
+  "email": "75725154@nos.edu.pe",
+  "student": "Tapullima Zumba David Ruperto",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 3,
+  "grade3": 6
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac07"
+  },
+  "id": "28",
+  "dni": "60131926",
+  "email": "60131926@nos.edu.pe",
+  "student": "Tello Armas Lleison Alfonso",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 9,
+  "grade3": 9
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac08"
+  },
+  "id": "29",
+  "dni": "61035798",
+  "email": "61035798@nos.edu.pe",
+  "student": "Tello Salas Diego Alexander",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 17,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac09"
+  },
+  "id": "30",
+  "dni": "73984136",
+  "email": "73984136@nos.edu.pe",
+  "student": "Tenazoa Pezo Angelo",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 2,
+  "grade2": 4,
+  "grade3": 7
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac0a"
+  },
+  "id": "31",
+  "dni": "72551465",
+  "email": "72551465@nos.edu.pe",
+  "student": "Torres Reategui Pablo",
+  "program": "CCI",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 9,
+  "grade2": 2,
+  "grade3": 8
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac0b"
+  },
+  "id": "01",
+  "dni": "60352645",
+  "email": "60352645@nos.edu.pe",
+  "student": "Abanto Rafael Jhan Marcos",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 7,
+  "grade3": 2
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac0c"
+  },
+  "id": "02",
+  "dni": "61035662",
+  "email": "61035662@nos.edu.pe",
+  "student": "Amaringo Upari Thayron",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 16,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac0d"
+  },
+  "id": "03",
+  "dni": "74280414",
+  "email": "74280414@nos.edu.pe",
+  "student": "Amasifuen Shapiama Jose Luis",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 2,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac0e"
+  },
+  "id": "04",
+  "dni": "75817546",
+  "email": "75817546@nos.edu.pe",
+  "student": "Barboza Zumaeta Frank Jahir",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 1,
+  "grade2": 12,
+  "grade3": 15
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac0f"
+  },
+  "id": "05",
+  "dni": "60238643",
+  "email": "60238643@nos.edu.pe",
+  "student": "Cachique Sangama Segundo May",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 11,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac10"
+  },
+  "id": "06",
+  "dni": "61132551",
+  "email": "61132551@nos.edu.pe",
+  "student": "Carrion Yanayaco Percy Nahin",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 3,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac11"
+  },
+  "id": "07",
+  "dni": "43573391",
+  "email": "43573391@nos.edu.pe",
+  "student": "Chinchay Roman Yoymer",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 16,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac12"
+  },
+  "id": "08",
+  "dni": "01125089",
+  "email": "01125089@nos.edu.pe",
+  "student": "Delgado Montilla Neil",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 10,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac13"
+  },
+  "id": "09",
+  "dni": "60552444",
+  "email": "60552444@nos.edu.pe",
+  "student": "Gomez Falcon Cristhian Junior",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 17,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac14"
+  },
+  "id": "10",
+  "dni": "75791660",
+  "email": "75791660@nos.edu.pe",
+  "student": "Guerra Amasifuen Orinson",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 12,
+  "grade3": 7
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac15"
+  },
+  "id": "11",
+  "dni": "75868811",
+  "email": "75868811@nos.edu.pe",
+  "student": "Luna Risco Arturo",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac16"
+  },
+  "id": "12",
+  "dni": "41767532",
+  "email": "41767532@nos.edu.pe",
+  "student": "Marcelo Mallqui Carlos Alberto",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 10,
+  "grade3": 3
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac17"
+  },
+  "id": "13",
+  "dni": "60505841",
+  "email": "60505841@nos.edu.pe",
+  "student": "Mendoza Olano Ander",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 3,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac18"
+  },
+  "id": "14",
+  "dni": "75868708",
+  "email": "75868708@nos.edu.pe",
+  "student": "Murrieta Guerra Jhordy Erick",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac19"
+  },
+  "id": "15",
+  "dni": "61035653",
+  "email": "61035653@nos.edu.pe",
+  "student": "Navarro Alarcon Jose Sebastian",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 7,
+  "grade2": 6,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac1a"
+  },
+  "id": "16",
+  "dni": "60231319",
+  "email": "60231319@nos.edu.pe",
+  "student": "Pezo Lopez Jose Luis",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 9,
+  "grade2": 1,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac1b"
+  },
+  "id": "17",
+  "dni": "76076756",
+  "email": "76076756@nos.edu.pe",
+  "student": "Pineda Tapullima Arnold Bruss",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 8,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac1c"
+  },
+  "id": "18",
+  "dni": "62527093",
+  "email": "62527093@nos.edu.pe",
+  "student": "Ramirez Valdivia Max Lenin",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 2,
+  "grade2": 13,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac1d"
+  },
+  "id": "19",
+  "dni": "62087969",
+  "email": "62087969@nos.edu.pe",
+  "student": "Saavedra Apuela Bieri Hamerli",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 2,
+  "grade3": 17
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac1e"
+  },
+  "id": "20",
+  "dni": "75019137",
+  "email": "75019137@nos.edu.pe",
+  "student": "Saavedra Pinedo Zenon",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 19,
+  "grade3": 16
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac1f"
+  },
+  "id": "21",
+  "dni": "60599941",
+  "email": "60599941@nos.edu.pe",
+  "student": "Sanchez Tuanama Leonel",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 18,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac20"
+  },
+  "id": "22",
+  "dni": "74622279",
+  "email": "74622279@nos.edu.pe",
+  "student": "Shapiama Amasifuen Harrison",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 11,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac21"
+  },
+  "id": "23",
+  "dni": "60132434",
+  "email": "60132434@nos.edu.pe",
+  "student": "Shapiama Chujutalli Keyllin",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 3,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac22"
+  },
+  "id": "24",
+  "dni": "76614766",
+  "email": "76614766@nos.edu.pe",
+  "student": "Shapiama Ojanama Jhony",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 7,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac23"
+  },
+  "id": "25",
+  "dni": "62132516",
+  "email": "62132516@nos.edu.pe",
+  "student": "Shapiama Zumba Olivio",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 14,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac24"
+  },
+  "id": "26",
+  "dni": "76067004",
+  "email": "76067004@nos.edu.pe",
+  "student": "Silva Vasquez Joseht Martin",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 20,
+  "grade2": 18,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac25"
+  },
+  "id": "27",
+  "dni": "71689962",
+  "email": "71689962@nos.edu.pe",
+  "student": "Sinarahua Salazar Jhonatan",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 3,
+  "grade3": 6
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac26"
+  },
+  "id": "28",
+  "dni": "73663841",
+  "email": "73663841@nos.edu.pe",
+  "student": "Sinarahua Seopa Erick Gabriel",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 9,
+  "grade3": 9
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac27"
+  },
+  "id": "29",
+  "dni": "70636696",
+  "email": "70636696@nos.edu.pe",
+  "student": "Sinti Viena Andres Salvador",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 17,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac28"
+  },
+  "id": "30",
+  "dni": "61071411",
+  "email": "61071411@nos.edu.pe",
+  "student": "Tananta Grandez Danilo Alexis",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 2,
+  "grade2": 4,
+  "grade3": 7
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac29"
+  },
+  "id": "31",
+  "dni": "79788020",
+  "email": "79788020@nos.edu.pe",
+  "student": "Torres Cachique Cristofer Raul",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 9,
+  "grade2": 2,
+  "grade3": 8
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac2a"
+  },
+  "id": "32",
+  "dni": "60129932",
+  "email": "60129932@nos.edu.pe",
+  "student": "Tuanama Isuiza Beder",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 9,
+  "grade2": 2,
+  "grade3": 8
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac2b"
+  },
+  "id": "33",
+  "dni": "73785650",
+  "email": "73785650@nos.edu.pe",
+  "student": "Tuanama Marayahua Kris Jhadley",
+  "program": "ELE",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 9,
+  "grade2": 2,
+  "grade3": 8
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac2c"
+  },
+  "id": "01",
+  "dni": "60547088",
+  "email": "60547088@nos.edu.pe",
+  "student": "Alvarez Masape Gomercindo",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 7,
+  "grade3": 2
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac2d"
+  },
+  "id": "02",
+  "dni": "60356457",
+  "email": "60356457@nos.edu.pe",
+  "student": "Baldeon Vasquez Jafet Noe",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 16,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac2e"
+  },
+  "id": "03",
+  "dni": "73057433",
+  "email": "73057433@nos.edu.pe",
+  "student": "Chistama Luna Adonis Amir",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 2,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac2f"
+  },
+  "id": "04",
+  "dni": "60351269",
+  "email": "60351269@nos.edu.pe",
+  "student": "Chu Ushiñahua Lincer Alfonso",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 1,
+  "grade2": 12,
+  "grade3": 15
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac30"
+  },
+  "id": "05",
+  "dni": "60535880",
+  "email": "60535880@nos.edu.pe",
+  "student": "Chujutalli Shapiama Luis Alberto",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 11,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac31"
+  },
+  "id": "06",
+  "dni": "60034392",
+  "email": "60034392@nos.edu.pe",
+  "student": "Flores Torres Christopher",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 3,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac32"
+  },
+  "id": "07",
+  "dni": "73434386",
+  "email": "73434386@nos.edu.pe",
+  "student": "Garcia Valles Luis Enrique",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 16,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac33"
+  },
+  "id": "08",
+  "dni": "72754219",
+  "email": "72754219@nos.edu.pe",
+  "student": "Guevara Jauregui Richard Jeanpiere",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 10,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac34"
+  },
+  "id": "09",
+  "dni": "60349703",
+  "email": "60349703@nos.edu.pe",
+  "student": "Lozano Reategui Flavio",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 17,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac35"
+  },
+  "id": "10",
+  "dni": "62800926",
+  "email": "62800926@nos.edu.pe",
+  "student": "Medina Marreros Gamnier Jampier",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 12,
+  "grade3": 7
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac36"
+  },
+  "id": "11",
+  "dni": "60348137",
+  "email": "60348137@nos.edu.pe",
+  "student": "Mejia Fernandez Jorge Luis",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac37"
+  },
+  "id": "12",
+  "dni": "76555056",
+  "email": "76555056@nos.edu.pe",
+  "student": "Muños Saavedra Carlos Orlando",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 10,
+  "grade3": 3
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac38"
+  },
+  "id": "13",
+  "dni": "60575598",
+  "email": "60575598@nos.edu.pe",
+  "student": "Paima Neira Deivin Harif",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 3,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac39"
+  },
+  "id": "14",
+  "dni": "71501308",
+  "email": "71501308@nos.edu.pe",
+  "student": "Pinedo Amasifuen Juan Carlos",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac3a"
+  },
+  "id": "15",
+  "dni": "60034397",
+  "email": "60034397@nos.edu.pe",
+  "student": "Pinedo Pinchi Cristofer",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 7,
+  "grade2": 6,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac3b"
+  },
+  "id": "16",
+  "dni": "60217783",
+  "email": "60217783@nos.edu.pe",
+  "student": "Pizango Lopez Klissman Andy",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 9,
+  "grade2": 1,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac3c"
+  },
+  "id": "17",
+  "dni": "60034739",
+  "email": "60034739@nos.edu.pe",
+  "student": "Putpaña Lopez Mario Deivis",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 8,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac3d"
+  },
+  "id": "18",
+  "dni": "60597384",
+  "email": "60597384@nos.edu.pe",
+  "student": "Ramirez Gonzales Mathias",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 2,
+  "grade2": 13,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac3e"
+  },
+  "id": "19",
+  "dni": "62527173",
+  "email": "62527173@nos.edu.pe",
+  "student": "Reategui Fatama Cristian Alber",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 2,
+  "grade3": 17
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac3f"
+  },
+  "id": "20",
+  "dni": "61267158",
+  "email": "61267158@nos.edu.pe",
+  "student": "Rengifo Jery Camilo Alejandro",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 19,
+  "grade3": 16
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac40"
+  },
+  "id": "21",
+  "dni": "76677291",
+  "email": "76677291@nos.edu.pe",
+  "student": "Rengifo Laulate Marck Hamil",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 18,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac41"
+  },
+  "id": "22",
+  "dni": "60288493",
+  "email": "60288493@nos.edu.pe",
+  "student": "Rojas Pinchi Deivi Sebastian",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 11,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac42"
+  },
+  "id": "23",
+  "dni": "61035780",
+  "email": "61035780@nos.edu.pe",
+  "student": "Sangama Macahuachi Jarlin",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 3,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac43"
+  },
+  "id": "24",
+  "dni": "73300841",
+  "email": "73300841@nos.edu.pe",
+  "student": "Sempertegui Vela Jack Kenedy",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 7,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac44"
+  },
+  "id": "25",
+  "dni": "61071327",
+  "email": "61071327@nos.edu.pe",
+  "student": "Tapullima Tuanama Jack Julton",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 14,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac45"
+  },
+  "id": "26",
+  "dni": "62882516",
+  "email": "62882516@nos.edu.pe",
+  "student": "Viena Sangama Roldan Riquelme",
+  "program": "MAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 20,
+  "grade2": 18,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac46"
+  },
+  "id": "01",
+  "dni": "62145269",
+  "email": "62145269@nos.edu.pe",
+  "student": "Bautista Maldonado Danelith Nicohol",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 7,
+  "grade3": 2
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac47"
+  },
+  "id": "02",
+  "dni": "61230961",
+  "email": "61230961@nos.edu.pe",
+  "student": "Cachique Torres Jhomayra",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 16,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac48"
+  },
+  "id": "03",
+  "dni": "60547123",
+  "email": "60547123@nos.edu.pe",
+  "student": "Chujutalli Cardenas Jhorch Enllers",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 2,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac49"
+  },
+  "id": "04",
+  "dni": "60412349",
+  "email": "60412349@nos.edu.pe",
+  "student": "Cometivos Ruiz Eliana Ikia",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 1,
+  "grade2": 12,
+  "grade3": 15
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac4a"
+  },
+  "id": "05",
+  "dni": "60034559",
+  "email": "60034559@nos.edu.pe",
+  "student": "Fernandez Carrasco Vexler Joseph",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 11,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac4b"
+  },
+  "id": "06",
+  "dni": "60205993",
+  "email": "60205993@nos.edu.pe",
+  "student": "Flores Arce Julio Isai",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 3,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac4c"
+  },
+  "id": "07",
+  "dni": "60821488",
+  "email": "60821488@nos.edu.pe",
+  "student": "Flores Saldaña Angel Sebastian",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 16,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac4d"
+  },
+  "id": "08",
+  "dni": "61035790",
+  "email": "61035790@nos.edu.pe",
+  "student": "Gatica Pilco Maykol",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 10,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac4e"
+  },
+  "id": "09",
+  "dni": "73029371",
+  "email": "73029371@nos.edu.pe",
+  "student": "Grandez Angulo Sergio Brayan",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 17,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac4f"
+  },
+  "id": "10",
+  "dni": "60256887",
+  "email": "60256887@nos.edu.pe",
+  "student": "Guerra Gonzales Heller Hair",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 12,
+  "grade3": 7
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac50"
+  },
+  "id": "11",
+  "dni": "74316204",
+  "email": "74316204@nos.edu.pe",
+  "student": "Hidalgo Salas Juliana",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac51"
+  },
+  "id": "12",
+  "dni": "60337576",
+  "email": "60337576@nos.edu.pe",
+  "student": "Ishuiza Gonzales Russel Adrian",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 10,
+  "grade3": 3
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac52"
+  },
+  "id": "13",
+  "dni": "62379720",
+  "email": "62379720@nos.edu.pe",
+  "student": "Melendez Murayari Luis Enrique",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 3,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac53"
+  },
+  "id": "14",
+  "dni": "72040585",
+  "email": "72040585@nos.edu.pe",
+  "student": "Mori Tello Hander Nihat",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac54"
+  },
+  "id": "15",
+  "dni": "72519535",
+  "email": "72519535@nos.edu.pe",
+  "student": "Paredes Ramirez Ruben",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 7,
+  "grade2": 6,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac55"
+  },
+  "id": "16",
+  "dni": "60508897",
+  "email": "60508897@nos.edu.pe",
+  "student": "Perez Salas David",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 9,
+  "grade2": 1,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac56"
+  },
+  "id": "17",
+  "dni": "73680631",
+  "email": "73680631@nos.edu.pe",
+  "student": "Perez Vargas Moises Alfredo",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 8,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac57"
+  },
+  "id": "18",
+  "dni": "60259609",
+  "email": "60259609@nos.edu.pe",
+  "student": "Quilcate Tello Jackelin Jasmin",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 2,
+  "grade2": 13,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac58"
+  },
+  "id": "19",
+  "dni": "61126163",
+  "email": "61126163@nos.edu.pe",
+  "student": "Rodriguez Vasquez Trianith",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 2,
+  "grade3": 17
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac59"
+  },
+  "id": "20",
+  "dni": "74140018",
+  "email": "74140018@nos.edu.pe",
+  "student": "Ruiz Fernandez Dick Miguel Angel",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 19,
+  "grade3": 16
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac5a"
+  },
+  "id": "21",
+  "dni": "61081645",
+  "email": "61081645@nos.edu.pe",
+  "student": "Saenz Haro Jhonnier",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 18,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac5b"
+  },
+  "id": "22",
+  "dni": "71074058",
+  "email": "71074058@nos.edu.pe",
+  "student": "Salazar Ushiñahua Adriana Anabel",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 11,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac5c"
+  },
+  "id": "23",
+  "dni": "61357656",
+  "email": "61357656@nos.edu.pe",
+  "student": "Saldaña Paredes Jose Antonio",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 3,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac5d"
+  },
+  "id": "24",
+  "dni": "62141465",
+  "email": "62141465@nos.edu.pe",
+  "student": "Sanes Cachique Carlos Daniel",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 7,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac5e"
+  },
+  "id": "25",
+  "dni": "61035665",
+  "email": "61035665@nos.edu.pe",
+  "student": "Sinarahua Arbildo Karely",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 14,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac5f"
+  },
+  "id": "26",
+  "dni": "76945761",
+  "email": "76945761@nos.edu.pe",
+  "student": "Sinarahua Tapullima Jordyn",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 20,
+  "grade2": 18,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac60"
+  },
+  "id": "27",
+  "dni": "45515884",
+  "email": "45515884@nos.edu.pe",
+  "student": "Tafur Hernandez Moises Ananias",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 3,
+  "grade3": 6
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac61"
+  },
+  "id": "28",
+  "dni": "61231294",
+  "email": "61231294@nos.edu.pe",
+  "student": "Torres Murayari Danny",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 9,
+  "grade3": 9
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac62"
+  },
+  "id": "29",
+  "dni": "60457232",
+  "email": "60457232@nos.edu.pe",
+  "student": "Urquia Isuiza Edwin",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 17,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac63"
+  },
+  "id": "30",
+  "dni": "60129250",
+  "email": "60129250@nos.edu.pe",
+  "student": "Vela Satalaya Eduardo",
+  "program": "PAG",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 2,
+  "grade2": 4,
+  "grade3": 7
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac64"
+  },
+  "id": "01",
+  "dni": "73929421",
+  "email": "73929421@nos.edu.pe",
+  "student": "Ayachi Cachique Dilver",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 7,
+  "grade3": 2
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac65"
+  },
+  "id": "02",
+  "dni": "71891028",
+  "email": "71891028@nos.edu.pe",
+  "student": "Chuquizuta Briceño Abner",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 16,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac66"
+  },
+  "id": "03",
+  "dni": "60034744",
+  "email": "60034744@nos.edu.pe",
+  "student": "Cordova Pinchi Sergio Patrick",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 2,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac67"
+  },
+  "id": "04",
+  "dni": "60937837",
+  "email": "60937837@nos.edu.pe",
+  "student": "Delgado Escobar Ciro Arol",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 1,
+  "grade2": 12,
+  "grade3": 15
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac68"
+  },
+  "id": "05",
+  "dni": "75232656",
+  "email": "75232656@nos.edu.pe",
+  "student": "Espinoza Trauco Korky Ademir",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 8,
+  "grade2": 11,
+  "grade3": 13
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac69"
+  },
+  "id": "06",
+  "dni": "76475360",
+  "email": "76475360@nos.edu.pe",
+  "student": "Garcia Coquinche Willian",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 3,
+  "grade3": 0
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac6a"
+  },
+  "id": "07",
+  "dni": "61231165",
+  "email": "61231165@nos.edu.pe",
+  "student": "Garcia Flores Javier Alonso",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 16,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac6b"
+  },
+  "id": "08",
+  "dni": "60266970",
+  "email": "60266970@nos.edu.pe",
+  "student": "Grandez Vasquez Gary",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 10,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac6c"
+  },
+  "id": "09",
+  "dni": "60256888",
+  "email": "60256888@nos.edu.pe",
+  "student": "Guerra Gonzales Ivan Manolo",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 17,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac6d"
+  },
+  "id": "10",
+  "dni": "60496346",
+  "email": "60496346@nos.edu.pe",
+  "student": "Guerra Guerra Ayton Stiveen",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 12,
+  "grade3": 7
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac6e"
+  },
+  "id": "11",
+  "dni": "61126214",
+  "email": "61126214@nos.edu.pe",
+  "student": "Hidalgo Gatica Claudio Yair",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 4,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac6f"
+  },
+  "id": "12",
+  "dni": "62220321",
+  "email": "62220321@nos.edu.pe",
+  "student": "Isuiza Panduro Harol Jesus",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 16,
+  "grade2": 10,
+  "grade3": 3
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac70"
+  },
+  "id": "13",
+  "dni": "62526290",
+  "email": "62526290@nos.edu.pe",
+  "student": "Linares Panduro David Daniel",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 3,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac71"
+  },
+  "id": "14",
+  "dni": "63157276",
+  "email": "63157276@nos.edu.pe",
+  "student": "Maldonado Fasabi Daniel Paolo",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 0,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac72"
+  },
+  "id": "15",
+  "dni": "60527582",
+  "email": "60527582@nos.edu.pe",
+  "student": "Molina Tello Henz Jordan",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 7,
+  "grade2": 6,
+  "grade3": 1
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac73"
+  },
+  "id": "16",
+  "dni": "71274636",
+  "email": "71274636@nos.edu.pe",
+  "student": "Mori Pinchi Camilo",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 9,
+  "grade2": 1,
+  "grade3": 5
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac74"
+  },
+  "id": "17",
+  "dni": "61953950",
+  "email": "61953950@nos.edu.pe",
+  "student": "Mozombite Chasnamote Andriiuth Joel",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 6,
+  "grade2": 8,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac75"
+  },
+  "id": "18",
+  "dni": "60130220",
+  "email": "60130220@nos.edu.pe",
+  "student": "Pashanace Isuiza Wesley",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 2,
+  "grade2": 13,
+  "grade3": 10
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac76"
+  },
+  "id": "19",
+  "dni": "70741302",
+  "email": "70741302@nos.edu.pe",
+  "student": "Pinedo Pinchi Ken Arthur",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 2,
+  "grade3": 17
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac77"
+  },
+  "id": "20",
+  "dni": "61126085",
+  "email": "61126085@nos.edu.pe",
+  "student": "Reategui Ramirez Gino Alexander",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 11,
+  "grade2": 19,
+  "grade3": 16
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac78"
+  },
+  "id": "21",
+  "dni": "61209047",
+  "email": "61209047@nos.edu.pe",
+  "student": "Saldaña Ruiz Samuel",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 14,
+  "grade2": 18,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac79"
+  },
+  "id": "22",
+  "dni": "61290679",
+  "email": "61290679@nos.edu.pe",
+  "student": "Sanchez Pezo Lervy Roberto",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 11,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac7a"
+  },
+  "id": "23",
+  "dni": "60890322",
+  "email": "60890322@nos.edu.pe",
+  "student": "Tuanama Pezo Tomic Maxel",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 18,
+  "grade2": 3,
+  "grade3": 19
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac7b"
+  },
+  "id": "24",
+  "dni": "60034571",
+  "email": "60034571@nos.edu.pe",
+  "student": "Urquia Ojanama Homar",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 15,
+  "grade2": 7,
+  "grade3": 4
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac7c"
+  },
+  "id": "25",
+  "dni": "60356451",
+  "email": "60356451@nos.edu.pe",
+  "student": "Vargas Fatama Hesler Kennedy",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 13,
+  "grade2": 14,
+  "grade3": 11
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac7d"
+  },
+  "id": "26",
+  "dni": "60337592",
+  "email": "60337592@nos.edu.pe",
+  "student": "Vega Angulo Alexis Gabriel",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 20,
+  "grade2": 18,
+  "grade3": 14
+},
+{
+  "_id": {
+    "$oid": "6936f2565b955170547bac7e"
+  },
+  "id": "27",
+  "dni": "60913808",
+  "email": "60913808@nos.edu.pe",
+  "student": "Zuta Tapullima Emanuel",
+  "program": "MPR",
+  "year": 2025,
+  "cycle": "II",
+  "subject": "Ofimatica",
+  "grade1": 17,
+  "grade2": 3,
+  "grade3": 6
+}]
