@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin - Actualizar Notas</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/admin.css" />
+  </head>
+  <body>
+    <div class="admin-container">
+      <div class="admin-box">
+        <div class="admin-header">
+          <h1>Actualizar Notas</h1>
+          <a href="index.html" class="btn-back">Volver al Login</a>
+        </div>
+
+        <div class="admin-section">
+          <h2>1. Seleccionar que nota actualizar</h2>
+          <div class="grade-selector">
+            <label class="radio-option">
+              <input type="radio" name="gradeType" value="grade1" checked />
+              <span>Nota 1</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="gradeType" value="grade2" />
+              <span>Nota 2</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="gradeType" value="grade3" />
+              <span>Nota 3</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="admin-section">
+          <h2>2. Cargar archivo CSV</h2>
+          <p class="help-text">
+            El CSV debe tener columnas: <code>dni</code> y <code>nota</code>
+          </p>
+          <div class="file-upload">
+            <input type="file" id="csvFile" accept=".csv" />
+            <label for="csvFile" class="btn-upload">
+              <span>Seleccionar archivo CSV</span>
+            </label>
+            <span class="file-name" id="fileName">Ningun archivo seleccionado</span>
+          </div>
+          <button class="btn-template" id="btnTemplate">Descargar plantilla CSV</button>
+        </div>
+
+        <div class="admin-section" id="previewSection" style="display: none;">
+          <h2>3. Vista previa de cambios</h2>
+          <div class="preview-stats">
+            <span class="stat"><strong id="totalRecords">0</strong> registros encontrados</span>
+            <span class="stat"><strong id="matchedRecords">0</strong> coincidencias con estudiantes</span>
+            <span class="stat warning"><strong id="notFoundRecords">0</strong> no encontrados</span>
+          </div>
+          <div class="table-wrapper">
+            <table class="preview-table">
+              <thead>
+                <tr>
+                  <th>DNI</th>
+                  <th>Estudiante</th>
+                  <th>Programa</th>
+                  <th>Nota Actual</th>
+                  <th>Nota Nueva</th>
+                  <th>Estado</th>
+                </tr>
+              </thead>
+              <tbody id="previewBody"></tbody>
+            </table>
+          </div>
+          <div class="action-buttons">
+            <button class="btn-apply" id="btnApply">Aplicar Cambios</button>
+            <button class="btn-cancel" id="btnCancel">Cancelar</button>
+          </div>
+        </div>
+
+        <div class="admin-section" id="resultSection" style="display: none;">
+          <h2>4. Descargar JSON actualizado</h2>
+          <p class="success-message">Los cambios han sido aplicados correctamente.</p>
+          <button class="btn-download" id="btnDownload">Descargar students_grades.json</button>
+          <p class="help-text">
+            Reemplaza el archivo <code>students_grades.json</code> en tu proyecto con el descargado.
+          </p>
+        </div>
+
+        <div class="admin-section">
+          <h2>Datos actuales</h2>
+          <button class="btn-secondary" id="btnDownloadCurrent">Descargar JSON actual</button>
+          <span class="student-count">(<span id="currentCount">0</span> estudiantes)</span>
+        </div>
+      </div>
+    </div>
+    <script src="js/admin.js"></script>
+  </body>
+</html>
