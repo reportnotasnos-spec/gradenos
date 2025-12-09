@@ -1,7 +1,18 @@
 let studentsData = [];
+let adminUsers = [];
 let csvData = [];
 let selectedGrade = 'grade1';
 let updatedData = [];
+let currentUser = null;
+
+async function loadAdminUsers() {
+  try {
+    const response = await fetch('admin_users.json');
+    adminUsers = await response.json();
+  } catch (error) {
+    console.error('Error cargando usuarios:', error);
+  }
+}
 
 async function loadStudentsData() {
   try {
@@ -12,6 +23,43 @@ async function loadStudentsData() {
     console.error('Error cargando datos:', error);
     alert('Error al cargar students_grades.json');
   }
+}
+
+function validateAdminLogin(username, password) {
+  const user = adminUsers.find(
+    u => u.username === username && u.password === password
+  );
+  if (user) {
+    return { success: true, user: user };
+  }
+  return { success: false, message: 'Usuario o contrasena incorrectos' };
+}
+
+function showAdminPanel(user) {
+  currentUser = user;
+  document.getElementById('adminLoginContainer').style.display = 'none';
+  document.getElementById('adminPanel').style.display = 'block';
+  document.getElementById('userBadge').textContent = user.role;
+  sessionStorage.setItem('adminUser', JSON.stringify(user));
+}
+
+function showAdminLogin() {
+  currentUser = null;
+  document.getElementById('adminLoginContainer').style.display = 'block';
+  document.getElementById('adminPanel').style.display = 'none';
+  document.getElementById('adminLoginForm').reset();
+  document.getElementById('adminErrorMessage').textContent = '';
+  sessionStorage.removeItem('adminUser');
+}
+
+function checkSession() {
+  const savedUser = sessionStorage.getItem('adminUser');
+  if (savedUser) {
+    const user = JSON.parse(savedUser);
+    showAdminPanel(user);
+    return true;
+  }
+  return false;
 }
 
 function parseCSV(text) {
@@ -143,7 +191,29 @@ function downloadTemplate() {
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
+  await loadAdminUsers();
   await loadStudentsData();
+
+  // Check existing session
+  checkSession();
+
+  // Admin login form
+  document.getElementById('adminLoginForm').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const username = document.getElementById('username').value.trim();
+    const password = document.getElementById('adminPassword').value;
+
+    const result = validateAdminLogin(username, password);
+
+    if (result.success) {
+      showAdminPanel(result.user);
+    } else {
+      document.getElementById('adminErrorMessage').textContent = result.message;
+    }
+  });
+
+  // Admin logout
+  document.getElementById('btnAdminLogout').addEventListener('click', showAdminLogin);
 
   // Grade type selector
   document.querySelectorAll('input[name="gradeType"]').forEach(radio => {

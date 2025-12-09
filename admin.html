@@ -8,11 +8,48 @@
     <link rel="stylesheet" href="css/admin.css" />
   </head>
   <body>
-    <div class="admin-container">
+    <!-- Login de administrador -->
+    <div class="login-container" id="adminLoginContainer">
+      <div class="login-box">
+        <h1>Administracion</h1>
+        <h2>Acceso restringido</h2>
+        <form id="adminLoginForm">
+          <div class="form-group">
+            <label for="username">Usuario</label>
+            <input
+              type="text"
+              id="username"
+              name="username"
+              placeholder="Ingresa tu usuario"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label for="adminPassword">Contrasena</label>
+            <input
+              type="password"
+              id="adminPassword"
+              name="password"
+              placeholder="Ingresa tu contrasena"
+              required
+            />
+          </div>
+          <div class="error-message" id="adminErrorMessage"></div>
+          <button type="submit" class="btn-login">Ingresar</button>
+        </form>
+        <p class="back-link"><a href="index.html">Volver al login de estudiantes</a></p>
+      </div>
+    </div>
+
+    <!-- Panel de administracion (oculto hasta login) -->
+    <div class="admin-container" id="adminPanel" style="display: none;">
       <div class="admin-box">
         <div class="admin-header">
-          <h1>Actualizar Notas</h1>
-          <a href="index.html" class="btn-back">Volver al Login</a>
+          <div class="header-left">
+            <h1>Actualizar Notas</h1>
+            <span class="user-badge" id="userBadge"></span>
+          </div>
+          <button class="btn-logout" id="btnAdminLogout">Cerrar Sesion</button>
         </div>
 
         <div class="admin-section">
