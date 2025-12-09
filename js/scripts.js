@@ -46,9 +46,9 @@ function showDashboard(studentRecords) {
   let totalAvg = 0;
 
   studentRecords.forEach(record => {
-    const avg = ((record.grade1 + record.grade2 + record.grade3) / 3).toFixed(1);
-    totalAvg += parseFloat(avg);
-    const avgClass = parseFloat(avg) >= 10.5 ? 'grade-approved' : 'grade-failed';
+    const avg = Math.round((record.grade1 + record.grade2 + record.grade3) / 3);
+    totalAvg += avg;
+    const avgClass = avg >= 11 ? 'grade-approved' : 'grade-failed';
 
     // Table row for desktop
     const row = document.createElement('tr');
@@ -89,8 +89,8 @@ function showDashboard(studentRecords) {
   });
 
   // General average
-  const generalAvg = (totalAvg / studentRecords.length).toFixed(1);
-  const avgClass = parseFloat(generalAvg) >= 10.5 ? 'grade-approved' : 'grade-failed';
+  const generalAvg = Math.round(totalAvg / studentRecords.length);
+  const avgClass = generalAvg >= 11 ? 'grade-approved' : 'grade-failed';
 
   if (studentRecords.length > 1) {
     // Table row for desktop
