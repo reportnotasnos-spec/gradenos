@@ -58,7 +58,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 0,
+  "grade1": 13,
   "grade2": 0,
   "grade3": 0
 },
@@ -90,7 +90,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 17,
+  "grade1": 16,
   "grade2": 14,
   "grade3": 18
 },
@@ -122,7 +122,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 15,
+  "grade1": 18,
   "grade2": 15,
   "grade3": 17
 },
@@ -138,7 +138,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 9,
+  "grade1": 16,
   "grade2": 10,
   "grade3": 15
 },
@@ -154,9 +154,9 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 16,
-  "grade2": 15,
-  "grade3": 16
+  "grade1": 18,
+  "grade2": 17,
+  "grade3": 18
 },
 {
   "_id": {
@@ -170,7 +170,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 14,
+  "grade1": 16,
   "grade2": 14,
   "grade3": 10
 },
@@ -282,7 +282,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 15,
+  "grade1": 14,
   "grade2": 14,
   "grade3": 16
 },
@@ -362,7 +362,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 10,
+  "grade1": 14,
   "grade2": 15,
   "grade3": 16
 },
@@ -394,7 +394,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 0,
+  "grade1": 10,
   "grade2": 0,
   "grade3": 0
 },
@@ -410,7 +410,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 11,
+  "grade1": 12,
   "grade2": 12,
   "grade3": 15
 },
@@ -442,9 +442,9 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 12,
-  "grade2": 10,
-  "grade3": 10
+  "grade1": 13,
+  "grade2": 13,
+  "grade3": 12
 },
 {
   "_id": {
@@ -458,7 +458,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 0,
+  "grade1": 10,
   "grade2": 0,
   "grade3": 0
 },
@@ -474,7 +474,7 @@
   "year": "2025",
   "cycle": "II",
   "subject": "Ofimatica",
-  "grade1": 12,
+  "grade1": 15,
   "grade2": 10,
   "grade3": 13
 },
